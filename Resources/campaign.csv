@@ -1,4 +1,4 @@
-cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launched_date,end_date,category_id,subcategory_id
+cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launched_date,end_date,category_ids,subcategory_ids
 147,4661,"Baldwin, Riley and Jackson",Pre-emptive tertiary standardization,100,0,failed,0,CA,CAD,2/13/2020,3/1/2021,cat1,subcat1
 1621,3765,Odom Inc,Managed bottom-line architecture,1400,14560,successful,158,US,USD,1/25/2021,5/25/2021,cat2,subcat2
 1812,4187,"Melton, Robinson and Fritz",Function-based leadingedge pricing structure,108400,142523,successful,1425,AU,AUD,12/17/2020,12/30/2021,cat3,subcat3
